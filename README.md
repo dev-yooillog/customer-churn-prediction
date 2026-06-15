@@ -1,4 +1,4 @@
-# 통신사 고객 이탈 분석 및 ML 기반 예측 모델 개발
+# 통신사 고객 이탈 분석 및 ML 기반 예측
 ### Telco Customer Churn Analysis & Prediction Pipeline
 
 > 통신사 고객 데이터에서 이탈 패턴을 SQL로 탐색하고, 머신러닝 모델로 조기 이탈 가능 고객을 예측하는 엔드투엔드 파이프라인 구축
